@@ -1,6 +1,7 @@
 ¡Hola! Soy apasionada por el desarrollo web y estoy constantemente aprendiendo y mejorando mis habilidades en esta área. Con experiencia en diversos aspectos del desarrollo web, desde la construcción de interfaces de usuario atractivas hasta el manejo de bases de datos complejas, me esfuerzo por crear experiencias web dinámicas y de alta calidad.
 
 Mis habilidades incluyen:
+
     Frontend: HTML5, CSS3, SASS, Bootstrap5, jQuery y JavaScript. Me encanta trabajar en el diseño y desarrollo de interfaces de usuario modernas y responsivas.
 
     Backend: Tengo experiencia en desarrollo backend con tecnologías como C#, Java, y PHP, así como en el diseño y administración de bases de datos utilizando SQL Server y MySQL.
